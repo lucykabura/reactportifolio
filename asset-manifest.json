@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/reactportifolio/static/css/main.69190ed6.css",
+    "main.js": "/reactportifolio/static/js/main.17dc2fdc.js",
+    "static/media/web.png": "/reactportifolio/static/media/web.332098341fe34a605e62.png",
+    "static/media/hotel.png": "/reactportifolio/static/media/hotel.2d6e40ffd337b5a2509e.png",
+    "static/media/admin.PNG": "/reactportifolio/static/media/admin.28ce58fb1aef3a88c24a.PNG",
+    "static/media/d.png": "/reactportifolio/static/media/d.6b2d03984ef617a41f13.png",
+    "static/media/d2.jpg": "/reactportifolio/static/media/d2.36e8d071fab78185394f.jpg",
+    "static/media/pt.jpg": "/reactportifolio/static/media/pt.c8e93f980ac721f426d9.jpg",
+    "static/media/admin1.png": "/reactportifolio/static/media/admin1.e08ff9bc15a4f6a16e30.png",
+    "static/media/profile.png": "/reactportifolio/static/media/profile.519193b6467e8461950b.png",
+    "static/media/hosi.png": "/reactportifolio/static/media/hosi.d7cc95d37d890d8b7cc7.png",
+    "static/media/travel.webp": "/reactportifolio/static/media/travel.7184ba76965f67871da7.webp",
+    "static/media/dekut.png": "/reactportifolio/static/media/dekut.5d840a117316fe471016.png",
+    "static/media/python.png": "/reactportifolio/static/media/python.d19997856e0c453a79b1.png",
+    "static/media/ibm.png": "/reactportifolio/static/media/ibm.9432f762f47cc639db3d.png",
+    "static/media/cisco.jpg": "/reactportifolio/static/media/cisco.22d3e7bddd2f515d28d7.jpg",
+    "static/media/mongodb.svg": "/reactportifolio/static/media/mongodb.219f7ae3c9abd445d6b82c941ad73702.svg",
+    "static/media/reactjs.svg": "/reactportifolio/static/media/reactjs.e72c9ed5483656b44c338310ad3219ce.svg",
+    "static/media/python.svg": "/reactportifolio/static/media/python.3d8ed41432d2edaf850964b1055db196.svg",
+    "static/media/express.svg": "/reactportifolio/static/media/express.a58a7fe08440ed0158d34b7192648c9b.svg",
+    "static/media/redux.svg": "/reactportifolio/static/media/redux.0d451f4a96daa541b83b419534633d6e.svg",
+    "static/media/javascript.svg": "/reactportifolio/static/media/javascript.0866c81b3b841c647e23b8a5d991c312.svg",
+    "static/media/nodejs.svg": "/reactportifolio/static/media/nodejs.5e939dd888e37b1c5feb11e39849389c.svg",
+    "static/media/nextjs.svg": "/reactportifolio/static/media/nextjs.6dba13893ca5278d6e2a4a5ecf443e8d.svg",
+    "static/media/nextjs2.svg": "/reactportifolio/static/media/nextjs2.8c6e83bb8f4e115ea520e96849ae6b82.svg",
+    "index.html": "/reactportifolio/index.html",
+    "static/media/css3.svg": "/reactportifolio/static/media/css3.cce1e71a67427e01caedeed1b01d4efa.svg",
+    "static/media/html.svg": "/reactportifolio/static/media/html.0c8899975fbb5345002df9b408db0cc0.svg",
+    "main.69190ed6.css.map": "/reactportifolio/static/css/main.69190ed6.css.map",
+    "main.17dc2fdc.js.map": "/reactportifolio/static/js/main.17dc2fdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69190ed6.css",
+    "static/js/main.17dc2fdc.js"
+  ]
+}
